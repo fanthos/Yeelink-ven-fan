@@ -3,8 +3,8 @@
   "name": "Yeelink",
   "documentation": "https://github.com/fineemb/Yeelink-ven-fan",
   "requirements": [
-    "construct==2.9.45",
-    "python-miio==0.4.5"
+    "construct>=2.9.45",
+    "python-miio>=0.4.5"
   ],
   "dependencies": [],
   "codeowners": [
